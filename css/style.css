@@ -1,3 +1,14 @@
 h1 {
     color:blueviolet;
 }
+
+.alert-text {
+    color:red;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.alert{
+    color:rgb(224, 87, 8);
+    font-weight: bold;
+}
