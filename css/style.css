@@ -1,3 +1,9 @@
+body{
+    background-color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 h1 {
     color:blueviolet;
 }
@@ -11,4 +17,27 @@ h1 {
 .alert{
     color:rgb(224, 87, 8);
     font-weight: bold;
+}
+
+.test-class{
+    font-weight: bolder;
+    font-variant-caps: normal;
+}
+
+#testid{
+    font-size: large;
+    color: darkblue;
+}
+
+
+.paragraph{
+    color:pink;
+}
+
+.child{
+    font-weight: bolder;
+}
+
+.parent .child{
+    background-color: white;
 }
