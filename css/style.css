@@ -3,6 +3,11 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+#main{
+    font-size: large;
+    color: darkred;
+}
+
 
 h1 {
     color:blueviolet;
