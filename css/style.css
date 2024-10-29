@@ -5,11 +5,13 @@
 body {
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
+    border: 10px color: black;
 }
 
 #main {
     font-size: large;
     color: darkred;
+    margin: 15px
 }
 
 
