@@ -1,3 +1,7 @@
+*{
+    outline: 2px solid red;
+}
+
 body {
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
